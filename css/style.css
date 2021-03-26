@@ -1,0 +1,13 @@
+/* TODO: Put your CSS code in here */
+.search_form {
+  text-align: center;
+}
+
+li {
+  list-style-type: none;
+  margin: 10px 10px;
+}
+
+#map {
+  margin: 0 auto;
+}
